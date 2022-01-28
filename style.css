@@ -1,0 +1,12 @@
+.ctn {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.caroussel-ctn {
+    background-color: grey;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    height: 500px;
+}
